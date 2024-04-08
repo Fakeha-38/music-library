@@ -122,6 +122,7 @@ console.log("========================");
 console.log("Add a playlist to the library:");
 library.addPlaylist("My New Playlist");
 console.log(library.playlists);
+console.log("========================");
 
 // STRETCH:
 // given a query string string, prints a list of tracks
